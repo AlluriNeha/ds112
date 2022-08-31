@@ -1,0 +1,3 @@
+module PreReqChecker {
+	exports prereqchecker;
+}

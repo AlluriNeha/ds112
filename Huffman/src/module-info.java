@@ -1,0 +1,3 @@
+module Huffman {
+	exports huffman;
+}
