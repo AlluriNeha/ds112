@@ -1,0 +1,3 @@
+module Transit {
+	exports transit;
+}
